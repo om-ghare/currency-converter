@@ -34,7 +34,8 @@ Try the live demo: [Currency-Converter](https://om-ghare.github.io/currency-conv
    git clone https://github.com/yourusername/currency-converter.git
    ```
 
-  ```bash
-  cd currency converter
-  ```
-  Open ``` index.html ``` in your browser
+2. ```bash
+   cd currency converter
+   ```
+   
+3. Open ``` index.html ``` in your browser
