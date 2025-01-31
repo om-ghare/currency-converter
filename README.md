@@ -14,12 +14,12 @@ A simple **Currency Converter** web application built using **HTML, CSS, and Jav
 
 - HTML5  
 - CSS3  
-- JavaScript
+- JavaScript(ES6)
 - Fetch API for real-time exchange rates  
 
 ## 🌐 Try Demo
 
-Try the live demo: [Currency-Converter](https://om-ghare.github.io/currency-converter/)
+Try the live demo: [Currency Converter](https://om-ghare.github.io/currency-converter/)
 
 ## 🚀 How to Use
 
@@ -34,7 +34,8 @@ Try the live demo: [Currency-Converter](https://om-ghare.github.io/currency-conv
    git clone https://github.com/yourusername/currency-converter.git
    ```
 
-2. ```bash
+2. Navigate to the project directory: 
+   ```bash
    cd currency converter
    ```
    
